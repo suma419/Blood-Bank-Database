@@ -28,4 +28,4 @@ This project is a comprehensive Blood Bank Management System built using Microso
 2. Use the test cases included to verify functionality.
 3. Query views like `active_blood_requests` and call procedures/functions to interact with the system.
 
-![Image Alt](https://github.com/suma419/Blood-Bank-Database/blob/1c45e8d0fc6373ebdb705f22454ce4ca38a02703/database%20diagram.png)]
+![Image Alt](https://github.com/suma419/Blood-Bank-Database/blob/1c45e8d0fc6373ebdb705f22454ce4ca38a02703/database%20diagram.png)
